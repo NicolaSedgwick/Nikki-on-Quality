@@ -1,3 +1,11 @@
+---
+layout: home
+limit: 10
+show_excerpts: true
+entries_layout: list
+---
+
+
 ## Welcome to GitHub Pages - test
 
 You can use the [editor on GitHub](https://github.com/NicolaSedgwick/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
