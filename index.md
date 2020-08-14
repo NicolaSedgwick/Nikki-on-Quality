@@ -1,3 +1,15 @@
+---
+title: Blog posts
+layout: collection
+permalink: /posts/
+collection: posts
+entries_layout: grid
+---
+
+Sample document listing for the collection `_posts`.
+
+
+
 ## Welcome to GitHub Pages - test
 
 You can use the [editor on GitHub](https://github.com/NicolaSedgwick/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
