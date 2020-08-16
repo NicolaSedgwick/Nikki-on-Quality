@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 gem `github-pages`
+gem "jekyll-theme-so-simple", path: "../"
 
 gem 'jekyll', '3.8.5'
 
